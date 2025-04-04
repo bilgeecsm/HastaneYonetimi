@@ -15,6 +15,7 @@ Hasta İşlemleri:
 •	Hasta Silme: Hasta silme ve tüm ilgili tablolarda güncelleme. (Aktif randevusu olan hastalar silinemez.)
 
 
+
 Doktor İşlemleri:
 
 •	Doktor Ekleme: Yeni doktor girişi ve veri tabanına güncelleme.
@@ -22,11 +23,13 @@ Doktor İşlemleri:
 •	Doktor Silme: Doktor silme ve tüm ilgili tablolarda güncelleme. (Aktif randevusu olan doktorlar silinemez.)
 
 
+
 Randevu İşlemleri:
 
 •Randevu Alma: Randevu oluşturma ve veri tabanına güncelleme.
 
 •Randevu İptal Etme: Randevuyu iptal etme ve veri tabanına güncelleme.
+
 
 
 Tıbbi Rapor İşlemleri:
@@ -42,6 +45,7 @@ Hasta/Doktor/Randevu/Rapor Bilgilerini Güncelleme:
 •	Mevcut hasta, doktor, randevu veya rapor bilgilerini güncelleme ve veri tabanında değişiklikleri anında raporlama.
 
 
+
 Genel:
 
 •	Tüm işlemler arayüz aracılığıyla yapılmalıdır.
@@ -49,6 +53,7 @@ Genel:
 •	Her işlemde bir onay mesajı gösterilmelidir.
 
 •	Veri tabanı değişiklikleri anlık olarak raporlanmalıdır.
+
 
 
 Siteye ait görseller:
